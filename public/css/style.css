@@ -1,0 +1,26 @@
+
+  *{
+    background-color: rgb(207, 15, 255);
+  }
+
+  .button{
+    padding: 15px 20px;
+  background:white;
+  color:black;
+  /*border: 2px solid #ecf0f1;*/
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  }
+ 
+  .gdd{
+    color: aliceblue;
+  }
+
+  a{
+    color: aliceblue;
+  }
+  p{
+    color:white ;
+  }
